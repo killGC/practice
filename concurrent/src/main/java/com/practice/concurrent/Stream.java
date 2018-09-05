@@ -5,10 +5,10 @@ import java.time.Instant;
 import java.util.stream.LongStream;
 
 /**
- * All rights Reserved, Designed By www.maihaoche.com
+ * All rights Reserved
  *
  * @Package com.practice.concurrent
- * @author: 长风（changfeng@maihaoche.com）
+ * @author: 长风
  * @date: 2018/9/5 下午5:28
  */
 public class Stream {
