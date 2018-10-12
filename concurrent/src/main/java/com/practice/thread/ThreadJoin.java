@@ -65,7 +65,7 @@ public class ThreadJoin {
         try {
             customThread1.start();
             Thread.sleep(2000);
-            //customThread.start();
+            customThread.start();
             customThread.join();
         }catch (Exception ex){
             System.out.println("Exception from main");
